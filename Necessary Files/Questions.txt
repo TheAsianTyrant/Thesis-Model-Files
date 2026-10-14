@@ -1,0 +1,770 @@
+---QUESTION---
+
+ID: Q001
+CATEGORY: Direct Retrieval
+QUESTION: Who may become a member of the SMCS?
+ANSWER: Any IEEE member of any grade, including Student Members, who has an interest in the Society's field of interest may become a member of the SMCS upon payment of the required Society membership fee.
+
+---QUESTION---
+
+ID: Q002
+CATEGORY: Direct Retrieval
+QUESTION: Who may become a Society Affiliate?
+ANSWER: Individuals who are not IEEE members but are interested in the Society's field of interest and meet the criteria established in the Bylaws may become Society Affiliates upon payment of the required IEEE registration and Society affiliation fees.
+
+---QUESTION---
+
+ID: Q003
+CATEGORY: Direct Retrieval
+QUESTION: What is the objective of the SMCS?
+ANSWER: The SMCS aims to advance the theory, practice, and interdisciplinary aspects of systems science and engineering, human-machine systems, and cybernetics through scientific, literary, educational, and professional activities. It promotes technical exchange, publications, conferences, and professional development for its members.
+
+---QUESTION---
+
+ID: Q004
+CATEGORY: Direct Retrieval
+QUESTION: What constitutes the Field of Interest?
+ANSWER: The Society's field of interest includes large-scale systems; optimisation, decision analysis, modelling, simulation, testing and evaluation; cybernetics; pattern recognition; adaptive and learning systems; biocybernetics; human-machine systems; and applications of systems engineering and cybernetics across biological, ecological, environmental, healthcare, socioeconomic, transportation, urban, and other national priority systems.
+
+---QUESTION---
+
+ID: Q005
+CATEGORY: Direct Retrieval
+QUESTION: Who appoints the Secretary?
+ANSWER: The Secretary is appointed by the President.
+
+---QUESTION---
+
+ID: Q006
+CATEGORY: Direct Retrieval
+QUESTION: What are the Secretary's responsibilities?
+ANSWER: The Secretary sends notices as directed by the Board of Governors or the Bylaws, prepares meeting agendas, records, and distributes minutes, reports Executive Committee actions, maintains Society records, and prepares reports required by the Board of Governors, the IEEE Technical Activities Board, and IEEE Bylaws.
+
+---QUESTION---
+
+ID: Q007
+CATEGORY: Direct Retrieval
+QUESTION: What are the Treasurer's responsibilities?
+ANSWER: The Treasurer promotes sound financial practices and policies, assists in preparing and presenting the Society's budget, coordinates financial matters with IEEE, and processes expense reports. The Treasurer reports through the Vice President for Finance.
+
+---QUESTION---
+
+ID: Q008
+CATEGORY: Direct Retrieval
+QUESTION: How many voting members may the Board of Governors contain?
+ANSWER: The Board of Governors consists of up to 27 voting members: the two most recent Past Presidents, ten Administrative Officers, and fifteen Members-at-Large.
+
+---QUESTION---
+
+ID: Q009
+CATEGORY: Direct Retrieval
+QUESTION: How long is the President's term?
+ANSWER: The President serves a two-year calendar term. A President may not serve more than two consecutive years in that office.
+
+---QUESTION---
+
+ID: Q010
+CATEGORY: Direct Retrieval
+QUESTION: Who may sign authorised disbursements?
+ANSWER: Authorised disbursements may be signed by the President, Treasurer, Executive Director, or other persons specifically designated by the Board of Governors.
+
+---QUESTION---
+
+ID: Q011
+CATEGORY: Direct Retrieval
+QUESTION: What is required to form a Chapter?
+ANSWER: A Chapter may be formed by IEEE members in a geographic area who petition in accordance with IEEE policies. Chapters operate under the Society Constitution, Bylaws, and applicable IEEE rules. (The SMCS Constitution references IEEE Chapter formation procedures rather than defining the detailed requirements itself.)
+
+---QUESTION---
+
+ID: Q012
+CATEGORY: Direct Retrieval
+QUESTION: Under what circumstances is a BoG member removed for non-attendance?
+ANSWER: A voting member of the Board of Governors who is absent from two consecutive Board meetings is removed from the Board. The same provision applies to non-voting members.
+
+---QUESTION---
+
+ID: Q013
+CATEGORY: Cross-Document
+QUESTION: How does the Operational Manual relate to the Constitution and Bylaws when a conflict exists?
+ANSWER: The Operational Manual provides operational guidance and best practices for IEEE SMCS activities but is subordinate to the Constitution and Bylaws. If there is conflicting wording or ambiguity, the Constitution takes precedence, followed by the Bylaws if necessary.
+
+---QUESTION---
+
+ID: Q014
+CATEGORY: Cross-Document
+QUESTION: Which document explains how Technical Committees operate after they are established?
+ANSWER: The Technical Committee Manual defines how Technical Committees operate after establishment, including the responsibilities of Area Vice Presidents, Area Committees, Area AVPs, Technical Committee Chairs, performance evaluation, reporting requirements, and procedures for restructuring or discontinuing committees. The Constitution and Bylaws establish the governance framework but do not describe daily Technical Committee operations in the same level of detail.
+
+---QUESTION---
+
+ID: Q015
+CATEGORY: Cross-Document
+QUESTION: How do the Constitution and Technical Manual divide responsibility for creating a Technical Committee?
+ANSWER: The Constitution and Bylaws define the governance structure and identify the officers and committees responsible for technical activities. The Technical Committee Manual provides the operational process for creating a Technical Committee, including proposal submission, review by the relevant Area Committee, approval by the Area Vice President, reporting to the Board of Governors, and notification to Society members.
+
+---QUESTION---
+
+ID: Q016
+CATEGORY: Cross-Document
+QUESTION: Which document specifies committee objectives, and which specifies committee procedures?
+ANSWER: The Constitution and Bylaws establish the purpose, authority, and responsibilities of Society committees. The Technical Committee Manual specifies the operational procedures used to manage Technical Committees, including reporting, evaluation, restructuring, and committee administration.
+
+---QUESTION---
+
+ID: Q017
+CATEGORY: Cross-Document
+QUESTION: How are Technical Committee Chairs governed by both the Technical Manual and the Society Bylaws?
+ANSWER: The Society Bylaws place Technical Committees under the governance of the appropriate Area Vice Presidents and standing committees. The Technical Committee Manual further defines the responsibilities of Technical Committee Chairs, including organising technical activities, recruiting members, submitting biannual reports, and the circumstances under which an Area Vice President may recommend replacing a Chair or restructuring or discontinuing a committee.
+
+---QUESTION---
+
+ID: Q018
+CATEGORY: Cross-Document
+QUESTION: Which document defines governance principles, and which defines operational procedures?
+ANSWER: The Constitution and Bylaws define the Society's governance principles, organisational structure, officers, committees, elections, and authority. The Operational Manual and Technical Committee Manual define the operational procedures and best practices used to implement those governance principles in day-to-day Society activities.
+
+---QUESTION---
+
+ID: Q019
+CATEGORY: Cross-Document
+QUESTION: How do the Society Constitution and IEEE Constitution differ in organisational scope?
+ANSWER: The IEEE Constitution establishes the objectives, governance, and policies of the IEEE as the parent organisation. The SMCS Constitution governs the IEEE Systems, Man, and Cybernetics Society specifically, defining its field of interest, organisational structure, officers, committees, and Society-specific governance while operating within the broader IEEE framework.
+
+---QUESTION---
+
+ID: Q020
+CATEGORY: Cross-Document
+QUESTION: Which document determines precedence when governance documents disagree?
+ANSWER: The Constitution has the highest precedence among the Society governance documents. The Operational Manual explicitly states that it is subordinate to the Constitution and Bylaws, and that in cases of conflict or ambiguity the Constitution takes precedence, followed by the Bylaws where necessary.
+
+---QUESTION---
+
+ID: Q021
+CATEGORY: Cross-Document
+QUESTION: How do the Society Bylaws and Technical Manual together define reporting responsibilities?
+ANSWER: The Society Bylaws assign governance responsibilities to officers and standing committees, while the Technical Committee Manual specifies the operational reporting responsibilities of Technical Committees. For example, Technical Committee Chairs must submit biannual activity reports to the appropriate Area Vice President, who in turn reports Technical Committee activities and major decisions to the Board of Governors.
+
+---QUESTION---
+
+ID: Q022
+CATEGORY: Cross-Document
+QUESTION: Which documents must be followed when establishing an SMCS committee?
+ANSWER: Establishing an SMCS Technical Committee requires following the Society's governance documents and operational procedures. The Constitution and Bylaws define the governance authority responsible for technical activities, while the Technical Committee Manual specifies the proposal, review, approval, reporting, and announcement procedures required to establish a Technical Committee. The Operational Manual also states that its guidance is subordinate to the Constitution and Bylaws.
+
+---QUESTION---
+
+ID: Q023
+CATEGORY: Semantic Retrieval
+QUESTION: What happens if the President is unable to perform their duties?
+ANSWER: If the President is unable to perform the duties of the office, the President-Elect assumes the duties of the President. If both the President and President-Elect are unable to serve, the Board of Governors fills the vacancy in accordance with the Society's governing procedures.
+
+---QUESTION---
+
+ID: Q024
+CATEGORY: Semantic Retrieval
+QUESTION: How is continuity of leadership maintained?
+ANSWER: Continuity of leadership is maintained through a structured succession process in which the President-Elect succeeds the President, Past Presidents remain on the Board of Governors, and newly elected officers assume office on 1 January following the Annual Meeting. This provides overlap between outgoing and incoming leadership.
+
+---QUESTION---
+
+ID: Q025
+CATEGORY: Semantic Retrieval
+QUESTION: Why must Technical Committees submit biannual reports?
+ANSWER: Technical Committees submit biannual reports so the appropriate Area Vice President can monitor committee activity, evaluate performance, identify inactive committees, support planning, and report Technical Committee activities to the Board of Governors. These reports are also used when evaluating whether a committee should continue, be restructured, or be discontinued.
+
+---QUESTION---
+
+ID: Q026
+CATEGORY: Semantic Retrieval
+QUESTION: Under what conditions can a Technical Committee be discontinued?
+ANSWER: A Technical Committee may be discontinued if it has been inactive for at least one year with no credible plan for revival, or if its Chair and at least two committee members jointly request its discontinuation with supporting reasons. The final decision rests with the appropriate Area Committee, after which the Area Vice President reports the decision to the Board of Governors and notifies Society members.
+
+---QUESTION---
+
+ID: Q027
+CATEGORY: Semantic Retrieval
+QUESTION: How does a proposal for a new Technical Committee become approved?
+ANSWER: A proposal is submitted to the appropriate Area Vice President and must include the committee’s name, proposed Chair, members, objectives, and activity plan. The Area Committee reviews the proposal for overlap and feasibility, consulting existing Technical Committee Chairs where appropriate. If approved by the Area Vice President, the committee may begin operating, and the decision is reported to the Board of Governors and announced to Society members.
+
+---QUESTION---
+
+ID: Q028
+CATEGORY: Semantic Retrieval
+QUESTION: What responsibilities does the VP Organisation and Planning have regarding Society planning?
+ANSWER: The Vice President for Organization and Planning chairs the Organization and Planning Committee and is responsible for updating the Society's Five-Year Plan, developing strategic and tactical plans, interpreting the Constitution and Bylaws when questions arise, and preparing proposed modifications to the Constitution and Bylaws for consideration by the Board of Governors.
+
+---QUESTION---
+
+ID: Q029
+CATEGORY: Semantic Retrieval
+QUESTION: What actions must occur before a Technical Committee officially begins operating?
+ANSWER: Before a Technical Committee begins operating, a proposal containing the committee's name, Chair, members, objectives, and activity plan must be submitted. The Area Committee reviews the proposal, and the Area Vice President approves it. Only after this approval may the committee commence activities, after which the decision is reported to the Board of Governors and announced to Society members.
+
+---QUESTION---
+
+ID: Q030
+CATEGORY: Semantic Retrieval
+QUESTION: How are officer vacancies filled?
+ANSWER: If the office of President becomes vacant, the President-Elect assumes the Presidency. Other officer vacancies are filled according to the procedures established in the Constitution and Bylaws through action of the Board of Governors. The governing documents assign the Board responsibility for filling vacancies where appropriate.
+
+---QUESTION---
+
+ID: Q031
+CATEGORY: Semantic Retrieval
+QUESTION: Why are Technical Committee evaluations conducted annually?
+ANSWER: Annual evaluations measure each Technical Committee's effectiveness using criteria such as submission of biannual reports, technical activities, member acquisition, maintenance of an up-to-date webpage, and future plans. The evaluations help ensure committees remain active, contribute to Society objectives, and identify committees requiring restructuring or discontinuation.
+
+---QUESTION---
+
+ID: Q032
+CATEGORY: Semantic Retrieval
+QUESTION: What role does the Executive Committee play in Society governance?
+ANSWER: The Executive Committee assists in managing the Society between meetings of the Board of Governors by conducting Society business delegated to it by the Board. Its actions are reported to the Board of Governors, ensuring governance continuity while remaining accountable to the Board.
+
+---QUESTION---
+
+ID: Q033
+CATEGORY: Hallucination Trap
+QUESTION: Who is the current IEEE President?
+ANSWER: The provided governance documents do not identify the current IEEE President.
+
+---QUESTION---
+
+ID: Q034
+CATEGORY: Hallucination Trap
+QUESTION: What salary do Society officers receive?
+ANSWER: The governance documents do not specify salaries, remuneration, or compensation for Society officers.
+
+---QUESTION---
+
+ID: Q035
+CATEGORY: Hallucination Trap
+QUESTION: Which programming language must committee software use?
+ANSWER: The governance documents do not prescribe any programming language for committee software or technical systems.
+
+---QUESTION---
+
+ID: Q036
+CATEGORY: Hallucination Trap
+QUESTION: Which cloud platform should committees use?
+ANSWER: The governance documents do not specify or recommend any cloud platform or online service for committee operations.
+
+---QUESTION---
+
+ID: Q037
+CATEGORY: Hallucination Trap
+QUESTION: What branding colours are mandatory?
+ANSWER: The governance documents do not define any mandatory branding colours or visual identity requirements for the Society or its committees.
+
+---QUESTION---
+
+ID: Q038
+CATEGORY: Hallucination Trap
+QUESTION: What AI certification is required for members?
+ANSWER: The governance documents do not require members to obtain any AI ethics certification or other professional certification.
+
+---QUESTION---
+
+ID: Q039
+CATEGORY: Hallucination Trap
+QUESTION: What office hours must committee chairs maintain?
+ANSWER: The governance documents do not specify office hours or availability requirements for committee chairs.
+
+---QUESTION---
+
+ID: Q040
+CATEGORY: Hallucination Trap
+QUESTION: Does the Society require members to publish annually?
+ANSWER: No. The governance documents do not require Society members to publish annually. While Technical Committee Chairs and Technical Committees are expected to contribute to Society activities, no annual publication requirement is imposed on Society members.
+
+---QUESTION---
+
+ID: Q041
+CATEGORY: Ambiguous
+QUESTION: Who approves changes?
+ANSWER: This question cannot be answered as stated because it does not specify what type of changes are being referred to. Different changes are approved by different authorities. For example, constitutional amendments are approved through the amendment process defined in the Constitution and Bylaws, while changes to Technical Committees are approved by the appropriate Area Vice President and reported to the Board of Governors.
+
+---QUESTION---
+
+ID: Q042
+CATEGORY: Ambiguous
+QUESTION: Who manages committees?
+ANSWER: This question is ambiguous because multiple committees exist within the Society. Standing committees are chaired by the appropriate Vice Presidents under the Society Bylaws, while Technical Committees are managed by the corresponding Area Vice President with support from the Area AVP and Area Committee as described in the Technical Committee Manual.
+
+---QUESTION---
+
+ID: Q043
+CATEGORY: Ambiguous
+QUESTION: What happens when someone resigns?
+ANSWER: This question cannot be answered without specifying who is resigning. The governing documents contain different procedures depending on whether the person is the President, another officer, a Board of Governors member, or a Technical Committee Chair.
+
+---QUESTION---
+
+ID: Q044
+CATEGORY: Ambiguous
+QUESTION: Who oversees finances?
+ANSWER: The Society's finances are overseen by multiple roles. The Vice President for Finance has responsibility for financial matters, while the Treasurer promotes sound financial practices, assists with budget preparation, and processes expense reports. Financial oversight is ultimately exercised within the Society's governance structure under the Board of Governors.
+
+---QUESTION---
+
+ID: Q045
+CATEGORY: Ambiguous
+QUESTION: What rules apply to committees?
+ANSWER: This question is ambiguous because different committees are governed by different documents. Standing committees are governed by the Society Constitution and Bylaws, while Technical Committees are additionally governed by the Technical Committee Manual and applicable operational procedures.
+
+---QUESTION---
+
+ID: Q046
+CATEGORY: Contradicting
+QUESTION: Which document takes precedence over the Operational Manual?
+ANSWER: The SMCS Constitution takes precedence over the Operational Manual. If there is conflicting wording or ambiguity, the Constitution has precedence. If further clarification is required, the Bylaws take precedence over the Operational Manual.
+
+---QUESTION---
+
+ID: Q047
+CATEGORY: Contradicting
+QUESTION: What should be followed if the Technical Manual conflicts with the Constitution?
+ANSWER: The Constitution should be followed. The Technical Committee Manual provides operational procedures and must be applied consistently with the Society's governing documents. Where a conflict exists, the Constitution has higher authority.
+
+---QUESTION---
+
+ID: Q048
+CATEGORY: Contradicting
+QUESTION: How are conflicts between Society and IEEE governance resolved?
+ANSWER: The Society Constitution states that the SMCS operates within the framework of the IEEE. However, the uploaded governance documents do not explicitly describe a formal conflict-resolution process between IEEE and Society governance documents. Therefore, no definitive precedence beyond the stated relationship can be established from the provided documents.
+
+---QUESTION---
+
+ID: Q049
+CATEGORY: Contradicting
+QUESTION: Which governance document has ultimate authority over Society procedures?
+ANSWER: The SMCS Constitution has the highest authority over Society governance and procedures, with the Bylaws providing additional governance detail. Operational documents, including the Operational Manual and Technical Committee Manual, are subordinate to these governing documents.
+
+---QUESTION---
+
+ID: Q050
+CATEGORY: Contradicting
+QUESTION: Which document should be followed when committee procedures are inconsistent?
+ANSWER: Committee procedures should first follow the SMCS Constitution, then the SMCS Bylaws where additional procedural guidance is provided. The Operational Manual and Technical Committee Manual should only be followed where they are consistent with these governing documents.
+
+---QUESTION---
+
+ID: Q051
+CATEGORY: Tricky
+QUESTION: Is a Vice President allowed to serve more than two terms?
+ANSWER: Yes, provided the terms are not consecutive in the same Vice President position. The Bylaws limit a Vice President to serving no more than two consecutive terms in the same office, but they may serve additional non-consecutive terms or serve in a different Vice President role.
+
+---QUESTION---
+
+ID: Q052
+CATEGORY: Tricky
+QUESTION: Can a Society Affiliate vote in Board of Governors elections?
+ANSWER: No. Society Affiliates may affiliate with the Society but do not possess the same governance rights as IEEE members. Board of Governors elections are conducted by eligible Society members.
+
+---QUESTION---
+
+ID: Q053
+CATEGORY: Tricky
+QUESTION: Does every Board of Governors meeting always have 27 voting members?
+ANSWER: No. The Board of Governors may contain up to 27 voting members, but the actual number depends on the Society's current leadership structure (for example, whether there is a President-Elect serving during that period).
+
+---QUESTION---
+
+ID: Q054
+CATEGORY: Tricky
+QUESTION: Can a Technical Committee be created immediately after a proposal is submitted?
+ANSWER: No. A proposal must first be reviewed by the appropriate Area Committee, approved by the Area Vice President, and then reported to the Board of Governors before the committee is formally established.
+
+---QUESTION---
+
+ID: Q055
+CATEGORY: Tricky
+QUESTION: Are all Technical Committee Chairs members of the Board of Governors?
+ANSWER: No. Technical Committee Chairs lead their respective Technical Committees but are not automatically members of the Board of Governors.
+
+---QUESTION---
+
+ID: Q056
+CATEGORY: Tricky
+QUESTION: Is the Treasurer responsible for approving Society expenditures?
+ANSWER: No. The Treasurer is responsible for promoting sound financial practices, assisting with budget preparation, coordinating financial matters, and processing expense reports. The documents do not assign sole authority for approving Society expenditures to the Treasurer.
+
+---QUESTION---
+
+ID: Q057
+CATEGORY: Tricky
+QUESTION: Can a Technical Committee continue operating without submitting activity reports?
+ANSWER: No. Technical Committees are expected to submit biannual activity reports. Failure to meet reporting and activity requirements may lead to evaluation, restructuring, replacement of the Chair, or discontinuation of the committee.
+
+---QUESTION---
+
+ID: Q058
+CATEGORY: Tricky
+QUESTION: Does every officer have the same term length?
+ANSWER: No. Officer term lengths vary by position. For example, the President-Elect serves a one-year term, while the President and Vice Presidents serve two-year terms.
+
+---QUESTION---
+
+ID: Q059
+CATEGORY: Tricky
+QUESTION: Does removing a Technical Committee automatically remove its Chair from Society membership?
+ANSWER: No. Discontinuing or restructuring a Technical Committee affects the committee itself and its leadership role but does not affect the individual's Society membership.
+
+---QUESTION---
+
+ID: Q060
+CATEGORY: Tricky
+QUESTION: Are all governance documents equal in authority?
+ANSWER: No. The governance documents have a defined hierarchy. The Constitution has the highest authority, followed by the Bylaws. The Operational Manual and Technical Committee Manual provide operational guidance and are subordinate to the governing documents.
+
+---QUESTION---
+
+ID: Q061
+CATEGORY: Multi-Hop Reasoning
+QUESTION: How does a proposal for a new Technical Committee progress from submission to official operation?
+ANSWER: A proposal for a new Technical Committee is submitted to the appropriate Area Vice President and must include the proposed committee's name, Chair, members, objectives, and activity plan. The relevant Area Committee reviews the proposal for feasibility and overlap with existing committees, consulting existing Technical Committee Chairs if necessary. If approved by the Area Vice President, the committee may begin operating. The approval is then reported to the Board of Governors and announced to Society members.
+
+---QUESTION---
+
+ID: Q062
+CATEGORY: Multi-Hop Reasoning
+QUESTION: Which Society officers are involved in financial management, and what are their respective responsibilities?
+ANSWER: Financial management is primarily shared between the Vice President for Finance and the Treasurer. The Vice President for Finance oversees the Society's financial affairs and chairs the Finance Committee. The Treasurer promotes sound financial practices, assists with preparing and presenting the Society budget, coordinates financial matters with IEEE, and processes expense reports. Financial oversight is exercised within the Society's governance structure under the Board of Governors.
+
+---QUESTION---
+
+ID: Q063
+CATEGORY: Multi-Hop Reasoning
+QUESTION: How does information from a Technical Committee eventually reach the Board of Governors?
+ANSWER: Technical Committee Chairs submit biannual activity reports to the appropriate Area Vice President. The Area Vice President oversees Technical Committee activities and reports significant activities, decisions, and recommendations to the Board of Governors, ensuring that committee information reaches the Society's governing body.
+
+---QUESTION---
+
+ID: Q064
+CATEGORY: Multi-Hop Reasoning
+QUESTION: Which governance bodies are responsible for overseeing Technical Committees throughout their lifecycle?
+ANSWER: Technical Committees are overseen by the Area Committee, the Area Vice President, and the Board of Governors. The Area Committee reviews proposals and recommends actions, the Area Vice President approves, evaluates, restructures, or recommends discontinuation of Technical Committees, and major decisions are reported to the Board of Governors as part of the Society's governance process.
+
+---QUESTION---
+
+ID: Q065
+CATEGORY: Multi-Hop Reasoning
+QUESTION: How is continuity of governance maintained when both committee leadership and Society leadership change?
+ANSWER: Continuity is maintained through structured succession and governance processes. Society leadership continuity is provided by the President-Elect succeeding the President, the continued service of Past Presidents on the Board of Governors, and scheduled officer transitions. Technical Committee continuity is maintained through oversight by Area Vice Presidents and Area Committees, which may appoint new Chairs, restructure committees, or oversee transitions when leadership changes occur.
+
+---QUESTION---
+
+ID: Q066
+CATEGORY: Multi-Hop Reasoning
+QUESTION: How do the Constitution, Bylaws, and Operational Manual together establish the hierarchy of governance documents?
+ANSWER: The Constitution establishes the Society's fundamental governance structure and has the highest authority. The Bylaws provide detailed governance rules that support and implement the Constitution. The Operational Manual provides operational guidance and best practices and is subordinate to both the Constitution and the Bylaws. Where conflicts or ambiguity exist, the Constitution takes precedence, followed by the Bylaws.
+
+---QUESTION---
+
+ID: Q067
+CATEGORY: Multi-Hop Reasoning
+QUESTION: How are Technical Committee evaluations used in decisions about restructuring or discontinuation?
+ANSWER: Technical Committees are evaluated annually using criteria such as activity reports, technical contributions, membership growth, website maintenance, and future plans. These evaluations help determine whether a committee remains active and effective or whether it should be restructured, merged, have its Chair replaced, or be discontinued.
+
+---QUESTION---
+
+ID: Q068
+CATEGORY: Multi-Hop Reasoning
+QUESTION: How do officer appointments and Board oversight work together to manage Society operations?
+ANSWER: The President appoints certain Society officers, including the Secretary and Treasurer, while the Board of Governors provides overall governance and oversight of Society affairs. Appointed officers carry out their assigned responsibilities, report through the appropriate governance structure, and support the Board in managing the Society's operations.
+
+---QUESTION---
+
+ID: Q069
+CATEGORY: Multi-Hop Reasoning
+QUESTION: Which governance documents collectively define the responsibilities of the Vice President for Organization and Planning?
+ANSWER: The SMCS Bylaws define the Vice President for Organization and Planning's responsibilities, including chairing the Organization and Planning Committee, maintaining the Society's Five-Year Plan, developing strategic and tactical plans, interpreting governance documents, and proposing amendments. These responsibilities are exercised within the governance framework established by the SMCS Constitution.
+
+---QUESTION---
+
+ID: Q070
+CATEGORY: Multi-Hop Reasoning
+QUESTION: How do the Constitution and Technical Committee Manual together ensure accountability of Technical Committees?
+ANSWER: The Constitution establishes the Society's governance structure and authority for technical activities, while the Technical Committee Manual defines operational accountability through reporting requirements, annual evaluations, performance expectations, and procedures for restructuring or discontinuing committees. Together, they ensure that Technical Committees remain active, accountable, and aligned with Society objectives.
+
+---QUESTION---
+
+ID: Q071
+CATEGORY: Temporal
+QUESTION: According to the current governance documents, how much notice must be given before a Board of Governors meeting?
+ANSWER: Written notice of a Board of Governors meeting must be provided at least 20 days before the meeting.
+
+---QUESTION---
+
+ID: Q072
+CATEGORY: Temporal
+QUESTION: If a revised set of Bylaws has been approved by the Society but not yet approved by IEEE, which version applies?
+ANSWER: The currently approved Bylaws remain in effect until the revised Bylaws receive the required IEEE approval. Approval by the Society alone is not sufficient for the revised Bylaws to become effective.
+
+---QUESTION---
+
+ID: Q073
+CATEGORY: Temporal
+QUESTION: When does an amendment to the Constitution take effect after adoption?
+ANSWER: An amendment to the Constitution takes effect thirty days after adoption. However, if the amendment changes the status of Officers or Officers-elect, or reduces the number of Directors, each affected Officer and Director continues to serve until their existing term expires.
+
+---QUESTION---
+
+ID: Q074
+CATEGORY: Temporal
+QUESTION: At the time covered by these documents, is a President-Elect included on the Board of Governors?
+ANSWER: Yes. The governing documents include the President-Elect as one of the Administrative Officers serving on the Board of Governors.
+
+---QUESTION---
+
+ID: Q075
+CATEGORY: Temporal
+QUESTION: Under the current governance rules, how many voting members may the Board of Governors have?
+ANSWER: The Board of Governors may have up to 27 voting members, consisting of the two most recent Past Presidents, ten Administrative Officers, and fifteen Members-at-Large.
+
+---QUESTION---
+
+ID: Q076
+CATEGORY: Temporal
+QUESTION: Which officer assumes office immediately after being elected, and which assumes office after a transition period?
+ANSWER: The governance documents state that newly elected officers assume office on 1 January following the Annual Meeting. The President-Elect serves a one-year term before succeeding to the Presidency. The documents do not identify any officer who assumes office immediately upon election.
+
+---QUESTION---
+
+ID: Q077
+CATEGORY: Temporal
+QUESTION: Which governance document should be followed before an updated version officially comes into effect?
+ANSWER: The currently approved version of the applicable governance document should continue to be followed until the revised version has completed the required approval process and becomes effective.
+
+---QUESTION---
+
+ID: Q078
+CATEGORY: Temporal
+QUESTION: If the Constitution is amended, when should Operational Manual changes be applied?
+ANSWER: The Operational Manual should be updated after the constitutional amendment becomes effective so that it remains consistent with the governing documents. Because the Operational Manual is subordinate to the Constitution and Bylaws, it should reflect any approved constitutional changes.
+
+---QUESTION---
+
+ID: Q079
+CATEGORY: Temporal
+QUESTION: How would the answer to a governance question change if a newer approved Bylaw replaced the current one?
+ANSWER: Once a newer Bylaw has been officially approved and becomes effective, governance questions should be answered using the revised Bylaw rather than the previous version. Until then, answers should be based on the currently effective Bylaws.
+
+---QUESTION---
+
+ID: Q080
+CATEGORY: Temporal
+QUESTION: Which governance rules apply when a document revision has been proposed but has not yet taken effect?
+ANSWER: The currently effective governance documents continue to apply. Proposed revisions that have not yet completed the required approval process do not supersede the existing governance documents.
+
+---QUESTION---
+
+ID: Q081
+CATEGORY: Negation
+QUESTION: Under what circumstances does the Operational Manual not take precedence?
+ANSWER: The Operational Manual does not take precedence when it conflicts with or is inconsistent with the SMCS Constitution or SMCS Bylaws. In cases of conflict or ambiguity, the Constitution takes precedence, followed by the Bylaws.
+
+---QUESTION---
+
+ID: Q082
+CATEGORY: Negation
+QUESTION: Which members are not required to be IEEE members?
+ANSWER: Technical Committee members are not required to be IEEE members. Technical Committee membership is open to all scholars with an interest in the committee's technical area, regardless of IEEE membership status. However, the Society encourages Technical Committees to actively increase the proportion of SMCS members in good standing.
+
+---QUESTION---
+
+ID: Q083
+CATEGORY: Negation
+QUESTION: When is a Technical Committee not permitted to continue operating?
+ANSWER: A Technical Committee is not permitted to continue operating if it is formally discontinued by the Society. This may occur if the committee has been inactive for at least one year with no credible plan for revival, or if its Chair and at least two committee members jointly request discontinuation. The decision is made by the appropriate Area Committee and reported to the Board of Governors.
+
+---QUESTION---
+
+ID: Q084
+CATEGORY: Negation
+QUESTION: Which governance documents do not define officer responsibilities?
+ANSWER: The Operational Manual and the Technical Committee Manual do not define the formal responsibilities of Society officers. Officer responsibilities are defined in the SMCS Constitution and SMCS Bylaws, while the Operational Manual and Technical Committee Manual provide operational guidance and procedures.
+
+---QUESTION---
+
+ID: Q085
+CATEGORY: Negation
+QUESTION: Under what circumstances is a Board member not permitted to remain on the Board?
+ANSWER: A voting member of the Board of Governors is not permitted to remain on the Board if they are absent from two consecutive Board meetings. The same attendance requirement also applies to non-voting Board members.
+
+---QUESTION---
+
+ID: Q086
+CATEGORY: Confirmatory
+QUESTION: I need a simple majority of votes to amend the Constitution, right?
+ANSWER: No. Amendments to the Society Constitution require approval by at least two-thirds of the votes cast by eligible voting members, not a simple majority.
+
+---QUESTION---
+
+ID: Q087
+CATEGORY: Confirmatory
+QUESTION: A Technical Committee can begin operating as soon as the Chair submits a proposal, correct?
+ANSWER: No. Submitting a proposal alone is not sufficient. The proposal must be reviewed by the appropriate Area Committee, approved by the Area Vice President, and then reported to the Board of Governors before the Technical Committee officially begins operating.
+
+---QUESTION---
+
+ID: Q088
+CATEGORY: Confirmatory
+QUESTION: The Operational Manual overrides the Constitution if it contains more recent information, doesn't it?
+ANSWER: No. The Operational Manual is subordinate to the Constitution and Bylaws. If there is conflicting wording or ambiguity, the Constitution takes precedence, followed by the Bylaws, regardless of whether the Operational Manual is more recent.
+
+---QUESTION---
+
+ID: Q089
+CATEGORY: Confirmatory
+QUESTION: Society Affiliates have exactly the same membership rights as IEEE members, right?
+ANSWER: No. Society Affiliates do not have the same rights as IEEE members. Affiliates may participate in the Society, but certain rights, including voting and holding elected office, are reserved for eligible IEEE members as defined in the Constitution and Bylaws.
+
+---QUESTION---
+
+ID: Q090
+CATEGORY: Confirmatory
+QUESTION: The President-Elect automatically serves a two-year term before becoming President, correct?
+ANSWER: No. The President-Elect serves a one-year term before automatically succeeding to the office of President. The Presidency itself is a separate two-year term.
+
+---QUESTION---
+
+ID: Q091
+CATEGORY: Clarification Required
+QUESTION: Who approves this change?
+ANSWER: This question cannot be answered without clarification. The approval authority depends on the type of change being referred to. For example, constitutional amendments, Technical Committee proposals, officer appointments, and committee restructures each have different approval processes.
+
+---QUESTION---
+
+ID: Q092
+CATEGORY: Clarification Required
+QUESTION: Which committee should I contact?
+ANSWER: This question cannot be answered without clarification. The appropriate committee depends on the subject of the enquiry, such as finance, publications, conferences, governance, membership, or technical activities.
+
+---QUESTION---
+
+ID: Q093
+CATEGORY: Clarification Required
+QUESTION: Who is responsible for this decision?
+ANSWER: This question cannot be answered without clarification. Different decisions are made by different governance bodies, including the Board of Governors, Executive Committee, Area Vice Presidents, Standing Committees, or Technical Committee Chairs.
+
+---QUESTION---
+
+ID: Q094
+CATEGORY: Clarification Required
+QUESTION: Which rules should I follow?
+ANSWER: This question cannot be answered without clarification. The applicable rules depend on the situation. Depending on the context, the Constitution, Bylaws, Operational Manual, or Technical Committee Manual may apply.
+
+---QUESTION---
+
+ID: Q095
+CATEGORY: Clarification Required
+QUESTION: What happens if they resign?
+ANSWER: This question cannot be answered without clarification. The outcome depends on who is resigning. Different procedures apply if the individual is the President, another Society officer, a Board of Governors member, a Technical Committee Chair, or another committee member.
+
+---QUESTION---
+
+ID: Q096
+CATEGORY: Conditional
+QUESTION: If the President resigns during their term, who assumes the duties of President?
+ANSWER: If the President resigns or is unable to perform the duties of the office, the President-Elect assumes the duties of the President. If both the President and President-Elect are unable to serve, the Board of Governors fills the vacancy in accordance with the Society's governing procedures.
+
+---QUESTION---
+
+ID: Q097
+CATEGORY: Conditional
+QUESTION: If a Technical Committee fails to submit reports for multiple years, what actions may the Society take?
+ANSWER: Failure to submit the required biannual activity reports contributes to poor annual evaluations. The Society may require corrective action, restructure the committee, replace its Chair, or discontinue the Technical Committee if it is determined to be inactive or no longer effective.
+
+---QUESTION---
+
+ID: Q098
+CATEGORY: Conditional
+QUESTION: If a proposal for a new Technical Committee overlaps with an existing committee, what happens next?
+ANSWER: The Area Committee reviews the proposal to assess its scope and overlap with existing Technical Committees. Existing Technical Committee Chairs may be consulted before a recommendation is made. The Area Vice President then decides whether to approve the proposal, modify it, or reject it.
+
+---QUESTION---
+
+ID: Q099
+CATEGORY: Conditional
+QUESTION: If a governance document conflicts with the Constitution, which document should be followed?
+ANSWER: The Constitution should be followed. It has the highest authority within the Society's governance hierarchy. Where conflicts or ambiguity exist, the Constitution takes precedence, followed by the Bylaws. Operational documents must remain consistent with these governing documents.
+
+---QUESTION---
+
+ID: Q100
+CATEGORY: Conditional
+QUESTION: If a Board member misses two consecutive meetings, what is the consequence?
+ANSWER: A Board member who is absent from two consecutive Board of Governors meetings is removed from the Board of Governors, unless otherwise provided for under the governing procedures.
+
+---QUESTION---
+
+ID: Q101
+CATEGORY: Procedural
+QUESTION: How can the Society Constitution be amended?
+ANSWER: A proposed amendment to the Constitution must first be approved by the Board of Governors. It is then submitted to the eligible voting members of the Society, where it must receive at least two-thirds of the votes cast to be adopted. The amendment subsequently becomes effective in accordance with the Society's governing procedures.
+
+---QUESTION---
+
+ID: Q102
+CATEGORY: Procedural
+QUESTION: How is a new Technical Committee established?
+ANSWER: A proposal for a new Technical Committee is submitted to the appropriate Area Vice President and must include the committee's name, proposed Chair, members, objectives, and activity plan. The proposal is reviewed by the relevant Area Committee, which considers overlap with existing committees and may consult current Technical Committee Chairs. If approved by the Area Vice President, the Technical Committee may begin operating, and the approval is reported to the Board of Governors and announced to Society members.
+
+---QUESTION---
+
+ID: Q103
+CATEGORY: Procedural
+QUESTION: How is a Technical Committee discontinued?
+ANSWER: A Technical Committee may be discontinued if it has been inactive for at least one year with no credible plan for revival, or if its Chair and at least two committee members jointly request discontinuation. The Area Committee reviews the recommendation, and if approved by the appropriate Area Vice President, the discontinuation is reported to the Board of Governors and communicated to Society members.
+
+---QUESTION---
+
+ID: Q104
+CATEGORY: Procedural
+QUESTION: How are Society officers elected?
+ANSWER: Society officers are elected by the eligible voting members of the Society in accordance with the procedures specified in the Constitution and Bylaws. Elections are conducted by ballot, and successful candidates assume office on 1 January following the Annual Meeting for the term specified for their office.
+
+---QUESTION---
+
+ID: Q105
+CATEGORY: Procedural
+QUESTION: How are Technical Committee Chairs evaluated?
+ANSWER: Technical Committee Chairs are evaluated annually by the appropriate Area Vice President using criteria including submission of biannual activity reports, technical activities, membership growth, maintenance of an up-to-date committee website, and future planning. The evaluation results may be used to determine whether the Chair should continue in the role or whether changes to the committee's leadership or structure are required.
+
+---QUESTION---
+
+ID: Q106
+CATEGORY: Summary
+QUESTION: Summarise all responsibilities of the Treasurer.
+ANSWER: The Treasurer is responsible for promoting sound financial practices throughout the Society, assisting the Vice President for Finance in preparing and presenting the annual budget, coordinating financial matters with IEEE, processing and maintaining expense reports, supporting financial planning and reporting, and carrying out other financial duties assigned by the Board of Governors or the President.
+
+---QUESTION---
+
+ID: Q107
+CATEGORY: Summary
+QUESTION: Summarise the responsibilities of a Technical Committee Chair.
+ANSWER: A Technical Committee Chair provides leadership and direction for the committee by organising and conducting committee meetings, coordinating technical activities, encouraging member participation, maintaining committee membership records, submitting biannual activity reports to the appropriate Area Vice President, maintaining an up-to-date committee webpage, supporting Society conferences and publications, overseeing committee planning and performance, and ensuring the committee operates in accordance with Society policies and procedures.
+
+---QUESTION---
+
+ID: Q108
+CATEGORY: Summary
+QUESTION: Summarise the duties of the Secretary.
+ANSWER: The Secretary is responsible for maintaining the Society's official records, preparing and distributing agendas and minutes for Board of Governors and Executive Committee meetings, maintaining records of governance actions, managing official correspondence and notices, certifying official Society documents when required, and performing other administrative duties assigned by the President or the Board of Governors.
+
+---QUESTION---
+
+ID: Q109
+CATEGORY: Differentiation
+QUESTION: What is the difference between the Vice President for Finance and the Treasurer?
+ANSWER: The Vice President for Finance provides strategic oversight of the Society's financial affairs. This role chairs the Finance Committee, oversees financial planning and policy, and is responsible for the Society's overall financial management. The Treasurer is responsible for the day-to-day administration of the Society's finances. The Treasurer promotes sound financial practices, assists in preparing and presenting the annual budget, coordinates financial matters with IEEE, processes expense reports, and maintains financial records. In summary, the Vice President for Finance oversees and directs the Society's financial management, while the Treasurer administers and supports the Society's financial operations.
+
+---QUESTION---
+
+ID: Q110
+CATEGORY: Differentiation
+QUESTION: What is the difference between the Operational Manual and the Technical Committee Manual?
+ANSWER: The Operational Manual provides Society-wide operational guidance and best practices for areas such as governance and compliance, membership, finance, conferences, publications, and Technical Committees. It supports the implementation of the Constitution and Bylaws and is subordinate to those governing documents. The Technical Committee Manual is a specialised operational document that focuses specifically on the establishment, management, evaluation, restructuring, and discontinuation of Technical Committees, as well as the responsibilities of Technical Committee Chairs, members, and Area Vice Presidents. In summary, the Operational Manual governs the Society's general operations, whereas the Technical Committee Manual governs the operation and management of Technical Committees specifically.
+
