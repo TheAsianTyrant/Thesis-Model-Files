@@ -24,18 +24,19 @@ The architectures were evaluated using 110 benchmark questions across 16 categor
 
 ## 2. Repository Structure
 
-The recommended repository structure is:
+The repository is organised into the following directories:
 
-- `README.md` — Project documentation and execution instructions.
-- `requirements.txt` — Python dependencies.
-- `Questions.txt` — Benchmark questions and reference answers.
-- `docs/` — Governance documents used as the retrieval corpus, subject to redistribution permissions.
-- `results/` — Experimental outputs and evaluation results.
-- `baseline_rag.py` — Baseline RAG implementation.
-- `rag_rise.py` — RISE-inspired refinement implementation.
-- `rag_rlvr.py` — RLVR-inspired verification and correction implementation.
-- `rag_mmv.py` — Multi-model verification implementation.
-- `rag_xai.py` — Explainable AI implementation.
+| Folder             | Description                                                                                                         |
+|--------------------|---------------------------------------------------------------------------------------------------------------------|
+| `BaseRag/`         | Baseline RAG implementation and associated files.                                                                   |
+| `RAG+RISE/`        | RISE-inspired refinement implementation and associated files.                                                       |
+| `RAG+RLVR/`        | RLVR-inspired verification implementation and associated files.                                                     |
+| `RAG+MMV/`         | Multi-model verification implementation and associated files.                                                       |
+| `RAG+XAI/`         | Explainable AI implementation and associated files.                                                                 |
+| `Necessary Files/` | Supporting files required to execute the architectures, including the benchmark questions and governance documents. |
+| `README.md`        | Project documentation and execution instructions.                                                                   |
+
+Each architecture is stored in its own directory, containing the corresponding Python implementation and associated files.
 
 The actual filenames and folder paths should match those used in the final implementation.
 
@@ -145,41 +146,27 @@ Additional architecture-specific settings, including refinement limits, verifica
 
 ## 8. Running the Experiments
 
-Run each architecture independently from the repository's main directory.
+Each RAG architecture can be executed independently.
 
-**Baseline RAG**
+To run an implementation:
 
-```bash
-python baseline_rag.py
-```
+1. Download or clone the repository.
+2. Install Python, Ollama, and the required dependencies.
+3. Download the required Ollama models.
+4. Open the `Necessary Files/` directory.
+5. Copy the required supporting files and folders into the directory of the architecture you wish to execute (e.g., `BaseRag/` or `RAG+RISE/`).
+6. Open a terminal in the selected architecture's directory.
+7. Run the corresponding Python script using its actual filename.
 
-**RISE-Inspired Refinement**
-
-```bash
-python rag_rise.py
-```
-
-**RLVR-Inspired Verification**
+For example, if the baseline implementation is named `RAG.py`:
 
 ```bash
-python rag_rlvr.py
+python "RAG.py"
 ```
 
-**Multi-Model Verification**
+Important: The supporting files from `Necessary Files/` must be placed inside the selected architecture directory before execution. Otherwise, the script may be unable to locate the required governance documents or benchmark questions.
 
-```bash
-python rag_mmv.py
-```
-
-**Explainable AI**
-
-```bash
-python rag_xai.py
-```
-
-These commands assume the scripts have been renamed as shown in the repository structure. If the original filenames are retained, use those filenames instead.
-
-Before execution, confirm that the document directory, benchmark file, model names, and output paths match the settings defined in each script.
+Ensure that the Ollama service is running before executing the scripts.
 
 ## 9. Evaluation Framework
 
