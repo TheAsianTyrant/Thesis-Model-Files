@@ -1,0 +1,275 @@
+============================================
+RAG BENCHMARK SUMMARY
+============================================
+
+Overall accuracy: 96.36%
+Questions evaluated: 110/110
+
+Accuracy by category:
+
+Direct Retrieval: 100.00% (12/12)
+Cross-Document: 90.00% (9/10)
+Semantic Retrieval: 100.00% (10/10)
+Hallucination Trap: 100.00% (8/8)
+Ambiguous: 100.00% (5/5)
+Contradicting: 100.00% (5/5)
+Tricky: 80.00% (8/10)
+Multi-Hop Reasoning: 100.00% (10/10)
+Temporal: 100.00% (10/10)
+Negation: 100.00% (5/5)
+Confirmatory: 100.00% (5/5)
+Clarification Required: 100.00% (5/5)
+Conditional: 80.00% (4/5)
+Procedural: 100.00% (5/5)
+Summary: 100.00% (3/3)
+Differentiation: 100.00% (2/2)
+
+============================================
+ADDITIONAL METRICS
+============================================
+
+Direct Retrieval:
+  Accuracy: 100.00%
+  Average Score: 3.00/3
+  Correctness: 1.00
+  Completeness: 1.00
+  Faithfulness: 1.00
+  ROUGE-1 F1: 0.3109
+  ROUGE-2 F1: 0.1176
+  ROUGE-L F1: 0.2335
+  BLEU: 0.0422
+  BERTScore F1: 0.8657
+
+Cross-Document:
+  Accuracy: 90.00%
+  Average Score: 2.70/3
+  Correctness: 0.90
+  Completeness: 0.90
+  Faithfulness: 0.90
+  ROUGE-1 F1: 0.3487
+  ROUGE-2 F1: 0.1106
+  ROUGE-L F1: 0.2486
+  BLEU: 0.0531
+  BERTScore F1: 0.8623
+
+Semantic Retrieval:
+  Accuracy: 100.00%
+  Average Score: 3.00/3
+  Correctness: 1.00
+  Completeness: 1.00
+  Faithfulness: 1.00
+  ROUGE-1 F1: 0.3297
+  ROUGE-2 F1: 0.1408
+  ROUGE-L F1: 0.2395
+  BLEU: 0.0588
+  BERTScore F1: 0.8579
+
+Hallucination Trap:
+  Accuracy: 100.00%
+  Average Score: 3.00/3
+  Correctness: 1.00
+  Completeness: 1.00
+  Faithfulness: 1.00
+  ROUGE-1 F1: 0.3623
+  ROUGE-2 F1: 0.2410
+  ROUGE-L F1: 0.3623
+  BLEU: 0.1679
+  BERTScore F1: 0.8875
+
+Ambiguous:
+  Accuracy: 100.00%
+  Average Score: 3.00/3
+  Correctness: 1.00
+  Completeness: 1.00
+  Faithfulness: 1.00
+  ROUGE-1 F1: 0.2689
+  ROUGE-2 F1: 0.0971
+  ROUGE-L F1: 0.1789
+  BLEU: 0.0356
+  BERTScore F1: 0.8535
+
+Contradicting:
+  Accuracy: 100.00%
+  Average Score: 3.00/3
+  Correctness: 1.00
+  Completeness: 1.00
+  Faithfulness: 1.00
+  ROUGE-1 F1: 0.2995
+  ROUGE-2 F1: 0.1289
+  ROUGE-L F1: 0.2475
+  BLEU: 0.0408
+  BERTScore F1: 0.8825
+
+Tricky:
+  Accuracy: 80.00%
+  Average Score: 2.40/3
+  Correctness: 0.80
+  Completeness: 0.80
+  Faithfulness: 0.80
+  ROUGE-1 F1: 0.2263
+  ROUGE-2 F1: 0.0621
+  ROUGE-L F1: 0.1611
+  BLEU: 0.0306
+  BERTScore F1: 0.8592
+
+Multi-Hop Reasoning:
+  Accuracy: 100.00%
+  Average Score: 3.00/3
+  Correctness: 1.00
+  Completeness: 1.00
+  Faithfulness: 1.00
+  ROUGE-1 F1: 0.2583
+  ROUGE-2 F1: 0.0857
+  ROUGE-L F1: 0.1825
+  BLEU: 0.0354
+  BERTScore F1: 0.8552
+
+Temporal:
+  Accuracy: 100.00%
+  Average Score: 3.00/3
+  Correctness: 1.00
+  Completeness: 1.00
+  Faithfulness: 1.00
+  ROUGE-1 F1: 0.3589
+  ROUGE-2 F1: 0.1758
+  ROUGE-L F1: 0.2823
+  BLEU: 0.1022
+  BERTScore F1: 0.8799
+
+Negation:
+  Accuracy: 100.00%
+  Average Score: 3.00/3
+  Correctness: 1.00
+  Completeness: 1.00
+  Faithfulness: 1.00
+  ROUGE-1 F1: 0.3526
+  ROUGE-2 F1: 0.1323
+  ROUGE-L F1: 0.2420
+  BLEU: 0.0590
+  BERTScore F1: 0.8682
+
+Confirmatory:
+  Accuracy: 100.00%
+  Average Score: 3.00/3
+  Correctness: 1.00
+  Completeness: 1.00
+  Faithfulness: 1.00
+  ROUGE-1 F1: 0.3466
+  ROUGE-2 F1: 0.1520
+  ROUGE-L F1: 0.2511
+  BLEU: 0.0666
+  BERTScore F1: 0.8766
+
+Clarification Required:
+  Accuracy: 100.00%
+  Average Score: 3.00/3
+  Correctness: 1.00
+  Completeness: 1.00
+  Faithfulness: 1.00
+  ROUGE-1 F1: 0.1727
+  ROUGE-2 F1: 0.0201
+  ROUGE-L F1: 0.1113
+  BLEU: 0.0142
+  BERTScore F1: 0.8397
+
+Conditional:
+  Accuracy: 80.00%
+  Average Score: 2.80/3
+  Correctness: 1.00
+  Completeness: 0.80
+  Faithfulness: 1.00
+  ROUGE-1 F1: 0.2859
+  ROUGE-2 F1: 0.0806
+  ROUGE-L F1: 0.1982
+  BLEU: 0.0380
+  BERTScore F1: 0.8630
+
+Procedural:
+  Accuracy: 100.00%
+  Average Score: 3.00/3
+  Correctness: 1.00
+  Completeness: 1.00
+  Faithfulness: 1.00
+  ROUGE-1 F1: 0.3821
+  ROUGE-2 F1: 0.1354
+  ROUGE-L F1: 0.2404
+  BLEU: 0.0641
+  BERTScore F1: 0.8539
+
+Summary:
+  Accuracy: 100.00%
+  Average Score: 3.00/3
+  Correctness: 1.00
+  Completeness: 1.00
+  Faithfulness: 1.00
+  ROUGE-1 F1: 0.3188
+  ROUGE-2 F1: 0.0850
+  ROUGE-L F1: 0.1924
+  BLEU: 0.0220
+  BERTScore F1: 0.8435
+
+Differentiation:
+  Accuracy: 100.00%
+  Average Score: 3.00/3
+  Correctness: 1.00
+  Completeness: 1.00
+  Faithfulness: 1.00
+  ROUGE-1 F1: 0.3664
+  ROUGE-2 F1: 0.1957
+  ROUGE-L F1: 0.2457
+  BLEU: 0.1108
+  BERTScore F1: 0.8789
+
+============================================
+COMPUTATIONAL COST
+============================================
+
+Average end-to-end latency: 31.6844 s
+Median end-to-end latency: 25.7706 s
+Latency standard deviation: 27.9385 s
+Average retrieval latency: 0.5723 s
+Average generation latency: 2.9022 s
+Average verification latency: 28.2098 s
+Average LLM calls/question: 4.00
+Total LLM calls: 440
+Average embedding calls/question: 1.00
+Total embedding calls: 110
+Average Ollama total duration: 31.1073 s
+Average Ollama load duration: 6.2147 s
+Average Ollama prompt-eval duration: 3.7990 s
+Average Ollama eval duration: 20.9418 s
+
+============================================
+MULTI-MODEL VERIFICATION
+============================================
+
+llama3: 70.00% verification classification accuracy (77/110)
+  TP=1 TN=76 FP=30 FN=3
+qwen3: 72.22% verification classification accuracy (78/108)
+  TP=2 TN=76 FP=28 FN=2
+mistral: 72.73% verification classification accuracy (80/110)
+  TP=1 TN=79 FP=27 FN=3
+
+Ensemble: 71.30% verification classification accuracy (77/108)
+  TP=1 TN=76 FP=28 FN=3
+  Unanimous binary agreement: 72.22%
+  2-1 binary disagreement: 27.78%
+  Llama disagrees with both independent verifiers: 1.85%
+
+Verification accuracy by category:
+Direct Retrieval: Ensemble 83.33% | llama3 83.33% | qwen3 66.67% | mistral 91.67%
+Cross-Document: Ensemble 70.00% | llama3 70.00% | qwen3 80.00% | mistral 70.00%
+Semantic Retrieval: Ensemble 100.00% | llama3 90.00% | qwen3 100.00% | mistral 100.00%
+Hallucination Trap: Ensemble 0.00% | llama3 0.00% | qwen3 75.00% | mistral 0.00%
+Ambiguous: Ensemble 100.00% | llama3 100.00% | qwen3 100.00% | mistral 100.00%
+Contradicting: Ensemble 60.00% | llama3 60.00% | qwen3 60.00% | mistral 60.00%
+Tricky: Ensemble 20.00% | llama3 20.00% | qwen3 30.00% | mistral 20.00%
+Multi-Hop Reasoning: Ensemble 90.00% | llama3 90.00% | qwen3 60.00% | mistral 100.00%
+Temporal: Ensemble 80.00% | llama3 80.00% | qwen3 40.00% | mistral 80.00%
+Negation: Ensemble 80.00% | llama3 80.00% | qwen3 100.00% | mistral 60.00%
+Confirmatory: Ensemble 60.00% | llama3 60.00% | qwen3 60.00% | mistral 60.00%
+Clarification Required: Ensemble 80.00% | llama3 80.00% | qwen3 100.00% | mistral 80.00%
+Conditional: Ensemble 80.00% | llama3 80.00% | qwen3 100.00% | mistral 80.00%
+Procedural: Ensemble 100.00% | llama3 100.00% | qwen3 100.00% | mistral 100.00%
+Summary: Ensemble 66.67% | llama3 100.00% | qwen3 33.33% | mistral 100.00%
+Differentiation: Ensemble 50.00% | llama3 50.00% | qwen3 50.00% | mistral 100.00%

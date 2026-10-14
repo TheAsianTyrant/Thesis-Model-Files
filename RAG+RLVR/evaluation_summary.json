@@ -1,0 +1,542 @@
+{
+    "overall": {
+        "total_questions": 110,
+        "evaluated_questions": 110,
+        "correct": 107,
+        "incorrect": 3,
+        "accuracy": 97.27
+    },
+    "reward_guidance": {
+        "method": "RLVR-inspired simplified strict-entailment verification + single targeted correction; no training",
+        "initial_accuracy": 96.36,
+        "final_accuracy": 97.27,
+        "paired_questions": 110,
+        "corrections": 1,
+        "degradations": 0,
+        "correction_rate_percent": 0.91,
+        "degradation_rate_percent": 0.0,
+        "triggered_questions": 28,
+        "changed_answers": 17,
+        "total_additional_generations": 28,
+        "mean_additional_generations": 0.255,
+        "mean_candidate_reward": null,
+        "category_breakdown": {
+            "Direct Retrieval": {
+                "initial_accuracy": 100.0,
+                "final_accuracy": 100.0,
+                "changed": 1
+            },
+            "Cross-Document": {
+                "initial_accuracy": 90.0,
+                "final_accuracy": 90.0,
+                "changed": 0
+            },
+            "Semantic Retrieval": {
+                "initial_accuracy": 100.0,
+                "final_accuracy": 100.0,
+                "changed": 2
+            },
+            "Hallucination Trap": {
+                "initial_accuracy": 100.0,
+                "final_accuracy": 100.0,
+                "changed": 2
+            },
+            "Ambiguous": {
+                "initial_accuracy": 100.0,
+                "final_accuracy": 100.0,
+                "changed": 1
+            },
+            "Contradicting": {
+                "initial_accuracy": 100.0,
+                "final_accuracy": 100.0,
+                "changed": 1
+            },
+            "Tricky": {
+                "initial_accuracy": 80.0,
+                "final_accuracy": 90.0,
+                "changed": 3
+            },
+            "Multi-Hop Reasoning": {
+                "initial_accuracy": 90.0,
+                "final_accuracy": 90.0,
+                "changed": 0
+            },
+            "Temporal": {
+                "initial_accuracy": 100.0,
+                "final_accuracy": 100.0,
+                "changed": 2
+            },
+            "Negation": {
+                "initial_accuracy": 100.0,
+                "final_accuracy": 100.0,
+                "changed": 1
+            },
+            "Confirmatory": {
+                "initial_accuracy": 100.0,
+                "final_accuracy": 100.0,
+                "changed": 2
+            },
+            "Clarification Required": {
+                "initial_accuracy": 100.0,
+                "final_accuracy": 100.0,
+                "changed": 1
+            },
+            "Conditional": {
+                "initial_accuracy": 100.0,
+                "final_accuracy": 100.0,
+                "changed": 0
+            },
+            "Procedural": {
+                "initial_accuracy": 100.0,
+                "final_accuracy": 100.0,
+                "changed": 0
+            },
+            "Summary": {
+                "initial_accuracy": 100.0,
+                "final_accuracy": 100.0,
+                "changed": 0
+            },
+            "Differentiation": {
+                "initial_accuracy": 100.0,
+                "final_accuracy": 100.0,
+                "changed": 1
+            }
+        }
+    },
+    "computational_cost": {
+        "mean_end_to_end_latency_seconds": 11.1351,
+        "median_end_to_end_latency_seconds": 9.087,
+        "std_end_to_end_latency_seconds": 6.7935,
+        "mean_retrieval_latency_seconds": 0.023,
+        "mean_baseline_generation_latency_seconds": 3.129,
+        "mean_rlvr_overhead_latency_seconds": 7.9831,
+        "mean_ollama_total_duration_seconds": 11.1016,
+        "mean_ollama_load_duration_seconds": 0.0152,
+        "mean_ollama_prompt_eval_duration_seconds": 2.3327,
+        "mean_ollama_eval_duration_seconds": 8.5773,
+        "mean_llm_calls_per_question": 2.545,
+        "total_llm_calls": 280,
+        "mean_embedding_calls_per_question": 1.0,
+        "total_embedding_calls": 110,
+        "category_breakdown": {
+            "Direct Retrieval": {
+                "mean_end_to_end_latency_seconds": 10.4075,
+                "median_end_to_end_latency_seconds": 8.2495,
+                "mean_retrieval_latency_seconds": 0.0195,
+                "mean_baseline_generation_latency_seconds": 3.3449,
+                "mean_rlvr_overhead_latency_seconds": 7.0431,
+                "mean_llm_calls_per_question": 2.167,
+                "mean_embedding_calls_per_question": 1.0
+            },
+            "Cross-Document": {
+                "mean_end_to_end_latency_seconds": 9.0742,
+                "median_end_to_end_latency_seconds": 7.4497,
+                "mean_retrieval_latency_seconds": 0.0219,
+                "mean_baseline_generation_latency_seconds": 2.8283,
+                "mean_rlvr_overhead_latency_seconds": 6.224,
+                "mean_llm_calls_per_question": 2.2,
+                "mean_embedding_calls_per_question": 1.0
+            },
+            "Semantic Retrieval": {
+                "mean_end_to_end_latency_seconds": 12.3802,
+                "median_end_to_end_latency_seconds": 10.449,
+                "mean_retrieval_latency_seconds": 0.0247,
+                "mean_baseline_generation_latency_seconds": 4.4162,
+                "mean_rlvr_overhead_latency_seconds": 7.9393,
+                "mean_llm_calls_per_question": 2.4,
+                "mean_embedding_calls_per_question": 1.0
+            },
+            "Hallucination Trap": {
+                "mean_end_to_end_latency_seconds": 10.1308,
+                "median_end_to_end_latency_seconds": 10.8888,
+                "mean_retrieval_latency_seconds": 0.017,
+                "mean_baseline_generation_latency_seconds": 1.2579,
+                "mean_rlvr_overhead_latency_seconds": 8.8559,
+                "mean_llm_calls_per_question": 3.5,
+                "mean_embedding_calls_per_question": 1.0
+            },
+            "Ambiguous": {
+                "mean_end_to_end_latency_seconds": 21.1369,
+                "median_end_to_end_latency_seconds": 9.6465,
+                "mean_retrieval_latency_seconds": 0.0196,
+                "mean_baseline_generation_latency_seconds": 5.5875,
+                "mean_rlvr_overhead_latency_seconds": 15.5298,
+                "mean_llm_calls_per_question": 2.8,
+                "mean_embedding_calls_per_question": 1.0
+            },
+            "Contradicting": {
+                "mean_end_to_end_latency_seconds": 8.0979,
+                "median_end_to_end_latency_seconds": 6.7682,
+                "mean_retrieval_latency_seconds": 0.0159,
+                "mean_baseline_generation_latency_seconds": 1.9037,
+                "mean_rlvr_overhead_latency_seconds": 6.1783,
+                "mean_llm_calls_per_question": 2.4,
+                "mean_embedding_calls_per_question": 1.0
+            },
+            "Tricky": {
+                "mean_end_to_end_latency_seconds": 9.8738,
+                "median_end_to_end_latency_seconds": 9.6751,
+                "mean_retrieval_latency_seconds": 0.0254,
+                "mean_baseline_generation_latency_seconds": 1.9472,
+                "mean_rlvr_overhead_latency_seconds": 7.9012,
+                "mean_llm_calls_per_question": 3.0,
+                "mean_embedding_calls_per_question": 1.0
+            },
+            "Multi-Hop Reasoning": {
+                "mean_end_to_end_latency_seconds": 15.1587,
+                "median_end_to_end_latency_seconds": 12.0911,
+                "mean_retrieval_latency_seconds": 0.0206,
+                "mean_baseline_generation_latency_seconds": 5.037,
+                "mean_rlvr_overhead_latency_seconds": 10.1011,
+                "mean_llm_calls_per_question": 2.6,
+                "mean_embedding_calls_per_question": 1.0
+            },
+            "Temporal": {
+                "mean_end_to_end_latency_seconds": 8.866,
+                "median_end_to_end_latency_seconds": 7.2178,
+                "mean_retrieval_latency_seconds": 0.033,
+                "mean_baseline_generation_latency_seconds": 2.0588,
+                "mean_rlvr_overhead_latency_seconds": 6.7742,
+                "mean_llm_calls_per_question": 2.4,
+                "mean_embedding_calls_per_question": 1.0
+            },
+            "Negation": {
+                "mean_end_to_end_latency_seconds": 9.3542,
+                "median_end_to_end_latency_seconds": 7.2748,
+                "mean_retrieval_latency_seconds": 0.021,
+                "mean_baseline_generation_latency_seconds": 2.3469,
+                "mean_rlvr_overhead_latency_seconds": 6.9863,
+                "mean_llm_calls_per_question": 2.4,
+                "mean_embedding_calls_per_question": 1.0
+            },
+            "Confirmatory": {
+                "mean_end_to_end_latency_seconds": 11.3914,
+                "median_end_to_end_latency_seconds": 12.7647,
+                "mean_retrieval_latency_seconds": 0.0238,
+                "mean_baseline_generation_latency_seconds": 2.2385,
+                "mean_rlvr_overhead_latency_seconds": 9.129,
+                "mean_llm_calls_per_question": 3.2,
+                "mean_embedding_calls_per_question": 1.0
+            },
+            "Clarification Required": {
+                "mean_end_to_end_latency_seconds": 9.4662,
+                "median_end_to_end_latency_seconds": 8.9929,
+                "mean_retrieval_latency_seconds": 0.0226,
+                "mean_baseline_generation_latency_seconds": 3.6704,
+                "mean_rlvr_overhead_latency_seconds": 5.7731,
+                "mean_llm_calls_per_question": 2.4,
+                "mean_embedding_calls_per_question": 1.0
+            },
+            "Conditional": {
+                "mean_end_to_end_latency_seconds": 7.6689,
+                "median_end_to_end_latency_seconds": 7.8618,
+                "mean_retrieval_latency_seconds": 0.0298,
+                "mean_baseline_generation_latency_seconds": 1.9709,
+                "mean_rlvr_overhead_latency_seconds": 5.6681,
+                "mean_llm_calls_per_question": 2.4,
+                "mean_embedding_calls_per_question": 1.0
+            },
+            "Procedural": {
+                "mean_end_to_end_latency_seconds": 9.7176,
+                "median_end_to_end_latency_seconds": 8.8414,
+                "mean_retrieval_latency_seconds": 0.0226,
+                "mean_baseline_generation_latency_seconds": 4.1911,
+                "mean_rlvr_overhead_latency_seconds": 5.5039,
+                "mean_llm_calls_per_question": 2.0,
+                "mean_embedding_calls_per_question": 1.0
+            },
+            "Summary": {
+                "mean_end_to_end_latency_seconds": 16.8034,
+                "median_end_to_end_latency_seconds": 18.8834,
+                "mean_retrieval_latency_seconds": 0.0191,
+                "mean_baseline_generation_latency_seconds": 5.4906,
+                "mean_rlvr_overhead_latency_seconds": 11.2936,
+                "mean_llm_calls_per_question": 2.0,
+                "mean_embedding_calls_per_question": 1.0
+            },
+            "Differentiation": {
+                "mean_end_to_end_latency_seconds": 15.4086,
+                "median_end_to_end_latency_seconds": 15.4086,
+                "mean_retrieval_latency_seconds": 0.0325,
+                "mean_baseline_generation_latency_seconds": 2.5461,
+                "mean_rlvr_overhead_latency_seconds": 12.8301,
+                "mean_llm_calls_per_question": 3.0,
+                "mean_embedding_calls_per_question": 1.0
+            }
+        }
+    },
+    "categories": {
+        "Direct Retrieval": {
+            "total_questions": 12,
+            "correct": 12,
+            "incorrect": 0,
+            "accuracy": 100.0,
+            "average_score": 3.0,
+            "average_correctness": 1.0,
+            "average_completeness": 1.0,
+            "average_faithfulness": 1.0,
+            "average_rouge1_f1": 0.3432,
+            "average_rouge2_f1": 0.1325,
+            "average_rougeL_f1": 0.2543,
+            "average_bleu": 0.0513,
+            "average_bertscore_precision": 0.8467,
+            "average_bertscore_recall": 0.8961,
+            "average_bertscore_f1": 0.8702
+        },
+        "Cross-Document": {
+            "total_questions": 10,
+            "correct": 9,
+            "incorrect": 1,
+            "accuracy": 90.0,
+            "average_score": 2.9,
+            "average_correctness": 1.0,
+            "average_completeness": 0.9,
+            "average_faithfulness": 1.0,
+            "average_rouge1_f1": 0.3487,
+            "average_rouge2_f1": 0.1106,
+            "average_rougeL_f1": 0.2486,
+            "average_bleu": 0.0531,
+            "average_bertscore_precision": 0.8557,
+            "average_bertscore_recall": 0.8694,
+            "average_bertscore_f1": 0.8623
+        },
+        "Semantic Retrieval": {
+            "total_questions": 10,
+            "correct": 10,
+            "incorrect": 0,
+            "accuracy": 100.0,
+            "average_score": 3.0,
+            "average_correctness": 1.0,
+            "average_completeness": 1.0,
+            "average_faithfulness": 1.0,
+            "average_rouge1_f1": 0.3676,
+            "average_rouge2_f1": 0.1436,
+            "average_rougeL_f1": 0.2599,
+            "average_bleu": 0.0636,
+            "average_bertscore_precision": 0.8437,
+            "average_bertscore_recall": 0.8843,
+            "average_bertscore_f1": 0.8632
+        },
+        "Hallucination Trap": {
+            "total_questions": 8,
+            "correct": 8,
+            "incorrect": 0,
+            "accuracy": 100.0,
+            "average_score": 3.0,
+            "average_correctness": 1.0,
+            "average_completeness": 1.0,
+            "average_faithfulness": 1.0,
+            "average_rouge1_f1": 0.3665,
+            "average_rouge2_f1": 0.2217,
+            "average_rougeL_f1": 0.3408,
+            "average_bleu": 0.1508,
+            "average_bertscore_precision": 0.9087,
+            "average_bertscore_recall": 0.8864,
+            "average_bertscore_f1": 0.8973
+        },
+        "Ambiguous": {
+            "total_questions": 5,
+            "correct": 5,
+            "incorrect": 0,
+            "accuracy": 100.0,
+            "average_score": 3.0,
+            "average_correctness": 1.0,
+            "average_completeness": 1.0,
+            "average_faithfulness": 1.0,
+            "average_rouge1_f1": 0.268,
+            "average_rouge2_f1": 0.0963,
+            "average_rougeL_f1": 0.1756,
+            "average_bleu": 0.0349,
+            "average_bertscore_precision": 0.8333,
+            "average_bertscore_recall": 0.875,
+            "average_bertscore_f1": 0.8534
+        },
+        "Contradicting": {
+            "total_questions": 5,
+            "correct": 5,
+            "incorrect": 0,
+            "accuracy": 100.0,
+            "average_score": 3.0,
+            "average_correctness": 1.0,
+            "average_completeness": 1.0,
+            "average_faithfulness": 1.0,
+            "average_rouge1_f1": 0.3379,
+            "average_rouge2_f1": 0.1374,
+            "average_rougeL_f1": 0.251,
+            "average_bleu": 0.0447,
+            "average_bertscore_precision": 0.8855,
+            "average_bertscore_recall": 0.8833,
+            "average_bertscore_f1": 0.8836
+        },
+        "Tricky": {
+            "total_questions": 10,
+            "correct": 9,
+            "incorrect": 1,
+            "accuracy": 90.0,
+            "average_score": 2.8,
+            "average_correctness": 0.9,
+            "average_completeness": 1.0,
+            "average_faithfulness": 0.9,
+            "average_rouge1_f1": 0.2794,
+            "average_rouge2_f1": 0.0801,
+            "average_rougeL_f1": 0.2017,
+            "average_bleu": 0.0396,
+            "average_bertscore_precision": 0.8598,
+            "average_bertscore_recall": 0.8736,
+            "average_bertscore_f1": 0.8665
+        },
+        "Multi-Hop Reasoning": {
+            "total_questions": 10,
+            "correct": 9,
+            "incorrect": 1,
+            "accuracy": 90.0,
+            "average_score": 2.9,
+            "average_correctness": 1.0,
+            "average_completeness": 1.0,
+            "average_faithfulness": 0.9,
+            "average_rouge1_f1": 0.2583,
+            "average_rouge2_f1": 0.0857,
+            "average_rougeL_f1": 0.1825,
+            "average_bleu": 0.0354,
+            "average_bertscore_precision": 0.8353,
+            "average_bertscore_recall": 0.8765,
+            "average_bertscore_f1": 0.8552
+        },
+        "Temporal": {
+            "total_questions": 10,
+            "correct": 10,
+            "incorrect": 0,
+            "accuracy": 100.0,
+            "average_score": 3.0,
+            "average_correctness": 1.0,
+            "average_completeness": 1.0,
+            "average_faithfulness": 1.0,
+            "average_rouge1_f1": 0.3501,
+            "average_rouge2_f1": 0.1714,
+            "average_rougeL_f1": 0.2778,
+            "average_bleu": 0.0839,
+            "average_bertscore_precision": 0.8748,
+            "average_bertscore_recall": 0.8887,
+            "average_bertscore_f1": 0.8813
+        },
+        "Negation": {
+            "total_questions": 5,
+            "correct": 5,
+            "incorrect": 0,
+            "accuracy": 100.0,
+            "average_score": 3.0,
+            "average_correctness": 1.0,
+            "average_completeness": 1.0,
+            "average_faithfulness": 1.0,
+            "average_rouge1_f1": 0.4136,
+            "average_rouge2_f1": 0.1555,
+            "average_rougeL_f1": 0.282,
+            "average_bleu": 0.0721,
+            "average_bertscore_precision": 0.8603,
+            "average_bertscore_recall": 0.8873,
+            "average_bertscore_f1": 0.8735
+        },
+        "Confirmatory": {
+            "total_questions": 5,
+            "correct": 5,
+            "incorrect": 0,
+            "accuracy": 100.0,
+            "average_score": 3.0,
+            "average_correctness": 1.0,
+            "average_completeness": 1.0,
+            "average_faithfulness": 1.0,
+            "average_rouge1_f1": 0.3912,
+            "average_rouge2_f1": 0.1945,
+            "average_rougeL_f1": 0.3063,
+            "average_bleu": 0.0719,
+            "average_bertscore_precision": 0.8849,
+            "average_bertscore_recall": 0.8951,
+            "average_bertscore_f1": 0.8897
+        },
+        "Clarification Required": {
+            "total_questions": 5,
+            "correct": 5,
+            "incorrect": 0,
+            "accuracy": 100.0,
+            "average_score": 3.0,
+            "average_correctness": 1.0,
+            "average_completeness": 1.0,
+            "average_faithfulness": 1.0,
+            "average_rouge1_f1": 0.2035,
+            "average_rouge2_f1": 0.03,
+            "average_rougeL_f1": 0.1211,
+            "average_bleu": 0.022,
+            "average_bertscore_precision": 0.8295,
+            "average_bertscore_recall": 0.862,
+            "average_bertscore_f1": 0.8453
+        },
+        "Conditional": {
+            "total_questions": 5,
+            "correct": 5,
+            "incorrect": 0,
+            "accuracy": 100.0,
+            "average_score": 3.0,
+            "average_correctness": 1.0,
+            "average_completeness": 1.0,
+            "average_faithfulness": 1.0,
+            "average_rouge1_f1": 0.2859,
+            "average_rouge2_f1": 0.0806,
+            "average_rougeL_f1": 0.1982,
+            "average_bleu": 0.038,
+            "average_bertscore_precision": 0.8602,
+            "average_bertscore_recall": 0.8663,
+            "average_bertscore_f1": 0.863
+        },
+        "Procedural": {
+            "total_questions": 5,
+            "correct": 5,
+            "incorrect": 0,
+            "accuracy": 100.0,
+            "average_score": 3.0,
+            "average_correctness": 1.0,
+            "average_completeness": 1.0,
+            "average_faithfulness": 1.0,
+            "average_rouge1_f1": 0.3821,
+            "average_rouge2_f1": 0.1354,
+            "average_rougeL_f1": 0.2404,
+            "average_bleu": 0.0641,
+            "average_bertscore_precision": 0.8262,
+            "average_bertscore_recall": 0.8837,
+            "average_bertscore_f1": 0.8539
+        },
+        "Summary": {
+            "total_questions": 3,
+            "correct": 3,
+            "incorrect": 0,
+            "accuracy": 100.0,
+            "average_score": 3.0,
+            "average_correctness": 1.0,
+            "average_completeness": 1.0,
+            "average_faithfulness": 1.0,
+            "average_rouge1_f1": 0.3188,
+            "average_rouge2_f1": 0.085,
+            "average_rougeL_f1": 0.1924,
+            "average_bleu": 0.022,
+            "average_bertscore_precision": 0.8148,
+            "average_bertscore_recall": 0.8747,
+            "average_bertscore_f1": 0.8435
+        },
+        "Differentiation": {
+            "total_questions": 2,
+            "correct": 2,
+            "incorrect": 0,
+            "accuracy": 100.0,
+            "average_score": 3.0,
+            "average_correctness": 1.0,
+            "average_completeness": 1.0,
+            "average_faithfulness": 1.0,
+            "average_rouge1_f1": 0.5511,
+            "average_rouge2_f1": 0.3088,
+            "average_rougeL_f1": 0.3504,
+            "average_bleu": 0.154,
+            "average_bertscore_precision": 0.9007,
+            "average_bertscore_recall": 0.9051,
+            "average_bertscore_f1": 0.9028
+        }
+    }
+}

@@ -1,0 +1,240 @@
+============================================
+RAG BENCHMARK SUMMARY
+============================================
+
+Overall accuracy: 99.09%
+Questions evaluated: 110/110
+
+Accuracy by category:
+
+Direct Retrieval: 100.00% (12/12)
+Cross-Document: 100.00% (10/10)
+Semantic Retrieval: 100.00% (10/10)
+Hallucination Trap: 100.00% (8/8)
+Ambiguous: 100.00% (5/5)
+Contradicting: 100.00% (5/5)
+Tricky: 100.00% (10/10)
+Multi-Hop Reasoning: 100.00% (10/10)
+Temporal: 100.00% (10/10)
+Negation: 100.00% (5/5)
+Confirmatory: 80.00% (4/5)
+Clarification Required: 100.00% (5/5)
+Conditional: 100.00% (5/5)
+Procedural: 100.00% (5/5)
+Summary: 100.00% (3/3)
+Differentiation: 100.00% (2/2)
+
+============================================
+COMPUTATIONAL COST
+============================================
+
+Average end-to-end latency: 8.1547 s
+Median end-to-end latency: 7.1005 s
+Latency standard deviation: 4.4123 s
+Average retrieval latency: 0.0195 s
+Average generation latency: 3.3649 s
+Average RISE latency: 0.5641 s
+Average LLM calls/question: 2.18
+Total LLM calls: 240
+Average embedding calls/question: 1.05
+Total embedding calls: 115
+Average Ollama total duration: 5.3970 s
+Average Ollama load duration: 0.0131 s
+Average Ollama prompt-eval duration: 1.0921 s
+Average Ollama eval duration: 4.1470 s
+
+============================================
+ADDITIONAL METRICS
+============================================
+
+Direct Retrieval:
+  Accuracy: 100.00%
+  Average Score: 3.00/3
+  Correctness: 1.00
+  Completeness: 1.00
+  Faithfulness: 1.00
+  ROUGE-1 F1: 0.3253
+  ROUGE-2 F1: 0.1266
+  ROUGE-L F1: 0.2481
+  BLEU: 0.0462
+  BERTScore F1: 0.8662
+
+Cross-Document:
+  Accuracy: 100.00%
+  Average Score: 3.00/3
+  Correctness: 1.00
+  Completeness: 1.00
+  Faithfulness: 1.00
+  ROUGE-1 F1: 0.3625
+  ROUGE-2 F1: 0.1242
+  ROUGE-L F1: 0.2451
+  BLEU: 0.0505
+  BERTScore F1: 0.8618
+
+Semantic Retrieval:
+  Accuracy: 100.00%
+  Average Score: 3.00/3
+  Correctness: 1.00
+  Completeness: 1.00
+  Faithfulness: 1.00
+  ROUGE-1 F1: 0.3751
+  ROUGE-2 F1: 0.1577
+  ROUGE-L F1: 0.2682
+  BLEU: 0.0810
+  BERTScore F1: 0.8657
+
+Hallucination Trap:
+  Accuracy: 100.00%
+  Average Score: 3.00/3
+  Correctness: 1.00
+  Completeness: 1.00
+  Faithfulness: 1.00
+  ROUGE-1 F1: 0.3886
+  ROUGE-2 F1: 0.2541
+  ROUGE-L F1: 0.3886
+  BLEU: 0.1690
+  BERTScore F1: 0.8930
+
+Ambiguous:
+  Accuracy: 100.00%
+  Average Score: 3.00/3
+  Correctness: 1.00
+  Completeness: 1.00
+  Faithfulness: 1.00
+  ROUGE-1 F1: 0.2709
+  ROUGE-2 F1: 0.0657
+  ROUGE-L F1: 0.1764
+  BLEU: 0.0321
+  BERTScore F1: 0.8515
+
+Contradicting:
+  Accuracy: 100.00%
+  Average Score: 3.00/3
+  Correctness: 1.00
+  Completeness: 1.00
+  Faithfulness: 1.00
+  ROUGE-1 F1: 0.2547
+  ROUGE-2 F1: 0.0684
+  ROUGE-L F1: 0.1899
+  BLEU: 0.0310
+  BERTScore F1: 0.8608
+
+Tricky:
+  Accuracy: 100.00%
+  Average Score: 3.00/3
+  Correctness: 1.00
+  Completeness: 1.00
+  Faithfulness: 1.00
+  ROUGE-1 F1: 0.2049
+  ROUGE-2 F1: 0.0467
+  ROUGE-L F1: 0.1489
+  BLEU: 0.0207
+  BERTScore F1: 0.8583
+
+Multi-Hop Reasoning:
+  Accuracy: 100.00%
+  Average Score: 3.00/3
+  Correctness: 1.00
+  Completeness: 1.00
+  Faithfulness: 1.00
+  ROUGE-1 F1: 0.3002
+  ROUGE-2 F1: 0.0876
+  ROUGE-L F1: 0.1971
+  BLEU: 0.0378
+  BERTScore F1: 0.8594
+
+Temporal:
+  Accuracy: 100.00%
+  Average Score: 3.00/3
+  Correctness: 1.00
+  Completeness: 1.00
+  Faithfulness: 1.00
+  ROUGE-1 F1: 0.2985
+  ROUGE-2 F1: 0.1173
+  ROUGE-L F1: 0.2117
+  BLEU: 0.0495
+  BERTScore F1: 0.8693
+
+Negation:
+  Accuracy: 100.00%
+  Average Score: 3.00/3
+  Correctness: 1.00
+  Completeness: 1.00
+  Faithfulness: 1.00
+  ROUGE-1 F1: 0.2955
+  ROUGE-2 F1: 0.1225
+  ROUGE-L F1: 0.2116
+  BLEU: 0.0419
+  BERTScore F1: 0.8559
+
+Confirmatory:
+  Accuracy: 80.00%
+  Average Score: 2.40/3
+  Correctness: 0.80
+  Completeness: 0.80
+  Faithfulness: 0.80
+  ROUGE-1 F1: 0.3262
+  ROUGE-2 F1: 0.1491
+  ROUGE-L F1: 0.2270
+  BLEU: 0.0917
+  BERTScore F1: 0.8748
+
+Clarification Required:
+  Accuracy: 100.00%
+  Average Score: 3.00/3
+  Correctness: 1.00
+  Completeness: 1.00
+  Faithfulness: 1.00
+  ROUGE-1 F1: 0.2149
+  ROUGE-2 F1: 0.0397
+  ROUGE-L F1: 0.1309
+  BLEU: 0.0233
+  BERTScore F1: 0.8489
+
+Conditional:
+  Accuracy: 100.00%
+  Average Score: 3.00/3
+  Correctness: 1.00
+  Completeness: 1.00
+  Faithfulness: 1.00
+  ROUGE-1 F1: 0.3241
+  ROUGE-2 F1: 0.0938
+  ROUGE-L F1: 0.2122
+  BLEU: 0.0355
+  BERTScore F1: 0.8594
+
+Procedural:
+  Accuracy: 100.00%
+  Average Score: 3.00/3
+  Correctness: 1.00
+  Completeness: 1.00
+  Faithfulness: 1.00
+  ROUGE-1 F1: 0.3869
+  ROUGE-2 F1: 0.1372
+  ROUGE-L F1: 0.2339
+  BLEU: 0.0619
+  BERTScore F1: 0.8608
+
+Summary:
+  Accuracy: 100.00%
+  Average Score: 3.00/3
+  Correctness: 1.00
+  Completeness: 1.00
+  Faithfulness: 1.00
+  ROUGE-1 F1: 0.2805
+  ROUGE-2 F1: 0.0785
+  ROUGE-L F1: 0.1652
+  BLEU: 0.0207
+  BERTScore F1: 0.8454
+
+Differentiation:
+  Accuracy: 100.00%
+  Average Score: 3.00/3
+  Correctness: 1.00
+  Completeness: 1.00
+  Faithfulness: 1.00
+  ROUGE-1 F1: 0.5553
+  ROUGE-2 F1: 0.2871
+  ROUGE-L F1: 0.3813
+  BLEU: 0.1595
+  BERTScore F1: 0.8785

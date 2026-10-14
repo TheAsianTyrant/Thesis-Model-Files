@@ -1,0 +1,335 @@
+============================================
+RAG BENCHMARK SUMMARY
+============================================
+
+Overall accuracy: 95.45%
+Questions evaluated: 110/110
+
+Accuracy by category:
+
+Direct Retrieval: 100.00% (12/12)
+Cross-Document: 90.00% (9/10)
+Semantic Retrieval: 100.00% (10/10)
+Hallucination Trap: 100.00% (8/8)
+Ambiguous: 80.00% (4/5)
+Contradicting: 100.00% (5/5)
+Tricky: 80.00% (8/10)
+Multi-Hop Reasoning: 100.00% (10/10)
+Temporal: 100.00% (10/10)
+Negation: 80.00% (4/5)
+Confirmatory: 100.00% (5/5)
+Clarification Required: 100.00% (5/5)
+Conditional: 100.00% (5/5)
+Procedural: 100.00% (5/5)
+Summary: 100.00% (3/3)
+Differentiation: 100.00% (2/2)
+
+============================================
+COMPUTATIONAL COST (ANSWER + XAI PIPELINE; NO TOKEN METRICS)
+============================================
+Average total latency: 15.0662 s/question
+Median total latency: 14.2678 s/question
+Latency standard deviation: 5.0846 s
+Average retrieval latency: 0.0199 s/question
+Average generation latency: 3.2240 s/question
+Average XAI overhead latency: 11.8223 s/question
+Average LLM calls: 2.00/question
+Total LLM calls: 220
+Average embedding calls: 1.00/question
+Total embedding calls: 110
+Average Ollama total duration: 15.0437 s/question
+Average Ollama load duration: 0.0126 s/question
+Average Ollama prompt-eval duration: 1.8652 s/question
+Average Ollama generation/eval duration: 13.0065 s/question
+
+============================================
+ADDITIONAL METRICS
+============================================
+
+Direct Retrieval:
+  Accuracy: 100.00%
+  Average Score: 3.00/3
+  Correctness: 1.00
+  Completeness: 1.00
+  Faithfulness: 1.00
+  ROUGE-1 F1: 0.2811
+  ROUGE-2 F1: 0.0946
+  ROUGE-L F1: 0.2043
+  BLEU: 0.0294
+  BERTScore F1: 0.8588
+  Average Total Latency: 13.5252 s
+  Average Retrieval Latency: 0.0187 s
+  Average Generation Latency: 3.5092 s
+  Average XAI Overhead Latency: 9.9972 s
+  Average LLM Calls: 2.00
+  Average Embedding Calls: 1.00
+
+Cross-Document:
+  Accuracy: 90.00%
+  Average Score: 2.90/3
+  Correctness: 0.90
+  Completeness: 1.00
+  Faithfulness: 1.00
+  ROUGE-1 F1: 0.3467
+  ROUGE-2 F1: 0.1085
+  ROUGE-L F1: 0.2460
+  BLEU: 0.0540
+  BERTScore F1: 0.8629
+  Average Total Latency: 13.2301 s
+  Average Retrieval Latency: 0.0219 s
+  Average Generation Latency: 3.5604 s
+  Average XAI Overhead Latency: 9.6478 s
+  Average LLM Calls: 2.00
+  Average Embedding Calls: 1.00
+
+Semantic Retrieval:
+  Accuracy: 100.00%
+  Average Score: 3.00/3
+  Correctness: 1.00
+  Completeness: 1.00
+  Faithfulness: 1.00
+  ROUGE-1 F1: 0.3890
+  ROUGE-2 F1: 0.1822
+  ROUGE-L F1: 0.2981
+  BLEU: 0.0991
+  BERTScore F1: 0.8716
+  Average Total Latency: 14.2946 s
+  Average Retrieval Latency: 0.0205 s
+  Average Generation Latency: 3.5147 s
+  Average XAI Overhead Latency: 10.7594 s
+  Average LLM Calls: 2.00
+  Average Embedding Calls: 1.00
+
+Hallucination Trap:
+  Accuracy: 100.00%
+  Average Score: 3.00/3
+  Correctness: 1.00
+  Completeness: 1.00
+  Faithfulness: 1.00
+  ROUGE-1 F1: 0.3670
+  ROUGE-2 F1: 0.2314
+  ROUGE-L F1: 0.3670
+  BLEU: 0.1573
+  BERTScore F1: 0.8898
+  Average Total Latency: 14.1276 s
+  Average Retrieval Latency: 0.0170 s
+  Average Generation Latency: 1.3368 s
+  Average XAI Overhead Latency: 12.7737 s
+  Average LLM Calls: 2.00
+  Average Embedding Calls: 1.00
+
+Ambiguous:
+  Accuracy: 80.00%
+  Average Score: 2.60/3
+  Correctness: 1.00
+  Completeness: 0.80
+  Faithfulness: 0.80
+  ROUGE-1 F1: 0.2441
+  ROUGE-2 F1: 0.0799
+  ROUGE-L F1: 0.1766
+  BLEU: 0.0199
+  BERTScore F1: 0.8543
+  Average Total Latency: 16.2493 s
+  Average Retrieval Latency: 0.0156 s
+  Average Generation Latency: 4.6241 s
+  Average XAI Overhead Latency: 11.6096 s
+  Average LLM Calls: 2.00
+  Average Embedding Calls: 1.00
+
+Contradicting:
+  Accuracy: 100.00%
+  Average Score: 3.00/3
+  Correctness: 1.00
+  Completeness: 1.00
+  Faithfulness: 1.00
+  ROUGE-1 F1: 0.2434
+  ROUGE-2 F1: 0.0774
+  ROUGE-L F1: 0.1969
+  BLEU: 0.0259
+  BERTScore F1: 0.8652
+  Average Total Latency: 15.9395 s
+  Average Retrieval Latency: 0.0228 s
+  Average Generation Latency: 2.7940 s
+  Average XAI Overhead Latency: 13.1227 s
+  Average LLM Calls: 2.00
+  Average Embedding Calls: 1.00
+
+Tricky:
+  Accuracy: 80.00%
+  Average Score: 2.50/3
+  Correctness: 0.80
+  Completeness: 0.90
+  Faithfulness: 0.80
+  ROUGE-1 F1: 0.2422
+  ROUGE-2 F1: 0.0833
+  ROUGE-L F1: 0.1697
+  BLEU: 0.0425
+  BERTScore F1: 0.8636
+  Average Total Latency: 14.7616 s
+  Average Retrieval Latency: 0.0154 s
+  Average Generation Latency: 2.0862 s
+  Average XAI Overhead Latency: 12.6600 s
+  Average LLM Calls: 2.00
+  Average Embedding Calls: 1.00
+
+Multi-Hop Reasoning:
+  Accuracy: 100.00%
+  Average Score: 3.00/3
+  Correctness: 1.00
+  Completeness: 1.00
+  Faithfulness: 1.00
+  ROUGE-1 F1: 0.2389
+  ROUGE-2 F1: 0.0708
+  ROUGE-L F1: 0.1548
+  BLEU: 0.0279
+  BERTScore F1: 0.8497
+  Average Total Latency: 18.0722 s
+  Average Retrieval Latency: 0.0255 s
+  Average Generation Latency: 4.6586 s
+  Average XAI Overhead Latency: 13.3880 s
+  Average LLM Calls: 2.00
+  Average Embedding Calls: 1.00
+
+Temporal:
+  Accuracy: 100.00%
+  Average Score: 3.00/3
+  Correctness: 1.00
+  Completeness: 1.00
+  Faithfulness: 1.00
+  ROUGE-1 F1: 0.3585
+  ROUGE-2 F1: 0.1672
+  ROUGE-L F1: 0.2664
+  BLEU: 0.0696
+  BERTScore F1: 0.8758
+  Average Total Latency: 15.9898 s
+  Average Retrieval Latency: 0.0230 s
+  Average Generation Latency: 2.3238 s
+  Average XAI Overhead Latency: 13.6429 s
+  Average LLM Calls: 2.00
+  Average Embedding Calls: 1.00
+
+Negation:
+  Accuracy: 80.00%
+  Average Score: 2.40/3
+  Correctness: 0.80
+  Completeness: 0.80
+  Faithfulness: 0.80
+  ROUGE-1 F1: 0.4057
+  ROUGE-2 F1: 0.1819
+  ROUGE-L F1: 0.2909
+  BLEU: 0.0863
+  BERTScore F1: 0.8746
+  Average Total Latency: 12.0018 s
+  Average Retrieval Latency: 0.0208 s
+  Average Generation Latency: 2.4512 s
+  Average XAI Overhead Latency: 9.5298 s
+  Average LLM Calls: 2.00
+  Average Embedding Calls: 1.00
+
+Confirmatory:
+  Accuracy: 100.00%
+  Average Score: 3.00/3
+  Correctness: 1.00
+  Completeness: 1.00
+  Faithfulness: 1.00
+  ROUGE-1 F1: 0.3216
+  ROUGE-2 F1: 0.1345
+  ROUGE-L F1: 0.2226
+  BLEU: 0.0512
+  BERTScore F1: 0.8705
+  Average Total Latency: 21.0774 s
+  Average Retrieval Latency: 0.0169 s
+  Average Generation Latency: 2.6718 s
+  Average XAI Overhead Latency: 18.3887 s
+  Average LLM Calls: 2.00
+  Average Embedding Calls: 1.00
+
+Clarification Required:
+  Accuracy: 100.00%
+  Average Score: 3.00/3
+  Correctness: 1.00
+  Completeness: 1.00
+  Faithfulness: 1.00
+  ROUGE-1 F1: 0.2028
+  ROUGE-2 F1: 0.0386
+  ROUGE-L F1: 0.1306
+  BLEU: 0.0281
+  BERTScore F1: 0.8482
+  Average Total Latency: 14.9842 s
+  Average Retrieval Latency: 0.0196 s
+  Average Generation Latency: 2.5027 s
+  Average XAI Overhead Latency: 12.4620 s
+  Average LLM Calls: 2.00
+  Average Embedding Calls: 1.00
+
+Conditional:
+  Accuracy: 100.00%
+  Average Score: 3.00/3
+  Correctness: 1.00
+  Completeness: 1.00
+  Faithfulness: 1.00
+  ROUGE-1 F1: 0.3251
+  ROUGE-2 F1: 0.1026
+  ROUGE-L F1: 0.2321
+  BLEU: 0.0395
+  BERTScore F1: 0.8775
+  Average Total Latency: 10.1758 s
+  Average Retrieval Latency: 0.0176 s
+  Average Generation Latency: 1.8847 s
+  Average XAI Overhead Latency: 8.2735 s
+  Average LLM Calls: 2.00
+  Average Embedding Calls: 1.00
+
+Procedural:
+  Accuracy: 100.00%
+  Average Score: 3.00/3
+  Correctness: 1.00
+  Completeness: 1.00
+  Faithfulness: 1.00
+  ROUGE-1 F1: 0.3703
+  ROUGE-2 F1: 0.1500
+  ROUGE-L F1: 0.2485
+  BLEU: 0.0610
+  BERTScore F1: 0.8648
+  Average Total Latency: 14.7430 s
+  Average Retrieval Latency: 0.0167 s
+  Average Generation Latency: 4.9598 s
+  Average XAI Overhead Latency: 9.7666 s
+  Average LLM Calls: 2.00
+  Average Embedding Calls: 1.00
+
+Summary:
+  Accuracy: 100.00%
+  Average Score: 3.00/3
+  Correctness: 1.00
+  Completeness: 1.00
+  Faithfulness: 1.00
+  ROUGE-1 F1: 0.2842
+  ROUGE-2 F1: 0.0762
+  ROUGE-L F1: 0.1682
+  BLEU: 0.0227
+  BERTScore F1: 0.8362
+  Average Total Latency: 17.6205 s
+  Average Retrieval Latency: 0.0137 s
+  Average Generation Latency: 6.6895 s
+  Average XAI Overhead Latency: 10.9172 s
+  Average LLM Calls: 2.00
+  Average Embedding Calls: 1.00
+
+Differentiation:
+  Accuracy: 100.00%
+  Average Score: 3.00/3
+  Correctness: 1.00
+  Completeness: 1.00
+  Faithfulness: 1.00
+  ROUGE-1 F1: 0.4648
+  ROUGE-2 F1: 0.2299
+  ROUGE-L F1: 0.3005
+  BLEU: 0.1318
+  BERTScore F1: 0.8796
+  Average Total Latency: 19.8804 s
+  Average Retrieval Latency: 0.0374 s
+  Average Generation Latency: 5.4442 s
+  Average XAI Overhead Latency: 14.3987 s
+  Average LLM Calls: 2.00
+  Average Embedding Calls: 1.00
