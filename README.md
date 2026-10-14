@@ -230,7 +230,7 @@ Suggested citation::
 
 Lim, L. (2026). *Evaluating Methods of Reliable Question Answering over Governance Documents* [Undergraduate research thesis]. Curtin University.
 
-Repository: [Insert GitHub repository URL]
+Repository: https://github.com/TheAsianTyrant/Thesis-Model-Files
 
 ## 13. License
 
